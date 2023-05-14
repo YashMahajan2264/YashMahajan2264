@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YashMahajan2264
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning new Technologies(software development)
 - 🌱 I’m currently learning computer science engineering
 - 📫 How to reach me --> yash2264mahajan@gmail.com
 
